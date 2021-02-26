@@ -28,6 +28,11 @@ public class CRMTest {
 	}
 
 	@Test
+	public void search()
+	{
+		System.out.println("Hi");
+	}
+	@Test
 	public void CRMLoginPageTitle() {
 		log.info("****************************** starting test case *****************************************");
 		log.info("****************************** freeCrmTitleTest *****************************************");
